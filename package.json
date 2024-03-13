@@ -1,6 +1,6 @@
 {
   "name": "zandoriya_gang",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "fresh tools for mass nodes monitoring",
   "main": "start.js",
   "scripts": {
